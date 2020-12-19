@@ -35,7 +35,7 @@
     "clean-webpack-plugin": "0.1.16",
     "css-loader": "0.28.4",
     "d3": "3.5.12",
-    "datatables.net": "1.10.16",
+    "datatables.net": "1.10.23",
     "datatables.net-bs": "1.10.16",
     "enzyme": "2.9.1",
     "es6-promise": "4.1.1",
