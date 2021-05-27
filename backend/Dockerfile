@@ -1,4 +1,4 @@
-FROM python:3.5.7
+FROM python:3.10.0a7
 ENV PYTHONUNBUFFERED 1
 RUN apt-get update && apt-get install -y netcat-traditional
 WORKDIR /code
