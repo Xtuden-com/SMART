@@ -28,3 +28,4 @@ sphinxcontrib-websupport==1.1.0
 tornado==5.1
 urllib3==1.23
 watchdog==0.8.3
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
