@@ -61,7 +61,7 @@
     "react-bootstrap": "0.31.1",
     "react-dom": "15.6.1",
     "react-nvd3": "0.5.7",
-    "react-redux": "5.0.5",
+    "react-redux": "5.1.0",
     "react-table": "6.8.6",
     "react-test-renderer": "15.6.1",
     "redux": "3.7.2",
@@ -75,7 +75,7 @@
     "stylelint-webpack-plugin": "0.8.0",
     "url-loader": "0.5.9",
     "webpack": "3.2.0",
-    "webpack-bundle-tracker": "0.2.0",
+    "webpack-bundle-tracker": "1.0.0",
     "whatwg-fetch": "2.0.3"
   }
 }
